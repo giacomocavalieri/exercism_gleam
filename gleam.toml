@@ -1,0 +1,9 @@
+name = "exercism_gleam"
+version = "0.1.0"
+description = "A Gleam project where I track solutions to the Gleam Exercism track"
+
+[dependencies]
+gleam_stdlib = "~> 0.28"
+
+[dev-dependencies]
+glacier = "~> 0.8"
